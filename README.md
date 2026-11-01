@@ -1,4 +1,4 @@
-# alfanestlabs-com
+# AlfaNest Labs
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,136 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-alfanestlabs-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://alfanestlabs.com/
+AlfaNest Labs builds data security for humans, applications, and AI. Their flagship control plane Veridex secures data in motion, complemented by products like API Risk Monitor, Agent Security, Machine Identity, Clearance, SafeKey Vault, WASTE.LAND marketplace, and AlfaNest Academy for ISO/IEC 27001 auditor training. The company, founded in 2024 in Saint‑Fulgent, France, focuses on zero‑knowledge encryption, AI guardrails, and compliance frameworks.
+
+**Areas:** Data Security · API Risk · Machine Identity · AI · Privacy
+
+## AlfaNest Labs on APIs.io
+
+Everything profiled for AlfaNest Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/alfanestlabs-com/](https://apis.io/providers/alfanestlabs-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Veridex API](https://apis.io/apis/alfanestlabs-com/veridex-api/) — Reference for Veridex, the AlfaNest Labs control plane for data in motion, and public APIs of Agent Security, Machine Identity, and API Risk.
+- [AlfaNest Labs API](https://apis.io/apis/alfanestlabs-com/alfanestlabs-com-api/) — AlfaNest Labs API as documented publicly: 47 operations. Contract generated from the documentation by API Evangelist (2026-11-01); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiPublicVerifyIdResponse](https://apis.io/schemas/alfanestlabs-com/alfanestlabs-com-get-api-public-verify-id-response/)
+- [PostApiAgentSecurityV1DecideRequest](https://apis.io/schemas/alfanestlabs-com/alfanestlabs-com-post-api-agent-security-v1-decide-request/)
+- [PostApiProjectsIdRunResponse](https://apis.io/schemas/alfanestlabs-com/alfanestlabs-com-post-api-projects-id-run-response/)
+- [PostApiScanCompareRequest](https://apis.io/schemas/alfanestlabs-com/alfanestlabs-com-post-api-scan-compare-request/)
+- [PostApiVeridexRunRequest](https://apis.io/schemas/alfanestlabs-com/alfanestlabs-com-post-api-veridex-run-request/)
+- [PostApiVeridexRunResponse](https://apis.io/schemas/alfanestlabs-com/alfanestlabs-com-post-api-veridex-run-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Alfanestlabs Com Context](https://apis.io/jsonld/alfanestlabs-com/alfanestlabs-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AlfaNest Labs API Rules](https://apis.io/rules/alfanestlabs-com/alfanestlabs-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Alfanestlabs Com Authentication](https://apis.io/security/alfanestlabs-com/alfanestlabs-com-authentication/)
+- [Alfanestlabs Com Domain Security](https://apis.io/security/alfanestlabs-com/alfanestlabs-com-domain-security/)
+- [Alfanestlabs Com Trust Center](https://apis.io/security/alfanestlabs-com/alfanestlabs-com-trust-center/)
+- [Alfanestlabs Com Vulnerability Disclosure](https://apis.io/security/alfanestlabs-com/alfanestlabs-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Alfanestlabs Com Plans Pricing](https://apis.io/plans/alfanestlabs-com/alfanestlabs-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Alfanestlabs Com Rate Limits](https://apis.io/rate-limits/alfanestlabs-com/alfanestlabs-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://alfanestlabs.com/)
+- [Documentation](https://alfanestlabs.com/veridex)
+- [API reference](https://alfanestlabs.com/api-risk)
+- [Pricing](https://alfanestlabs.com/prices)
+- [Sign up](https://alfanestlabs.com/login?redirect=%2Fveridex%2Fdashboard)
+- [Support](https://alfanestlabs.com/contact)
+- [Blog](https://alfanestlabs.com/blog)
+- [Security](https://alfanestlabs.com/ei-bnc/security)
+- [Compliance](https://alfanestlabs.com/trust)
+- [Terms of service](https://alfanestlabs.com/terms)
+- [Privacy policy](https://alfanestlabs.com/privacy)
+- [GitHub](https://github.com/alfanestlabs)
+
+## API Evangelist rating
+
+**Kin Score 58.6** — strong · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 45.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 34.7 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 88.9 |
+
+**Agent readiness 37.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 32.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/alfanestlabs-com/](https://apis.io/providers/alfanestlabs-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AlfaNest Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/alfanestlabs-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
